@@ -1,0 +1,87 @@
+```<html>
+ <head>
+  <title>RetroBotServices</title>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+  <link href="index.css" rel="stylesheet"> 
+</head>
+
+<body>
+        <!-- Header -->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-color">
+            <div class="container-fluid">
+              <button aria-controls="ntoggle" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#ntoggle" data-bs-toggle="collapse" type="button">
+                <span class="navbar-toggler-icon">
+                </span>
+              </button>
+              <div class="collapse navbar-collapse" id="ntoggle">
+                <a class="navbar-brand nav-head" href="https://discord.gg/Nv7HyA2ujp">
+                  <!-- YOUR BOT NAME -->
+                  RetroBotServices 
+              </a>
+              <ul id="nav-list" class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                  <a class="nav-link" href="https://docs.google.com/document/d/1FdouzFtmNprLtYgxCHGyNfiswGTnxeQLVrRK66ho4l0/edit#heading=h.cak0kw3giqes">
+                  <!-- Nav Bar Item -->
+                    Commands
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://discord.com/api/oauth2/authorize?client_id=884513042778443806&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.events.stdlib.com%2Fdiscord%2Fauth%2F&scope=bot"> 
+                    <!-- Nav Bar Item --> 
+                    Invite
+                  </a>
+                  </li>
+              </ul>
+              <form class="d-flex">
+                <button onclick="location.href='https://discord.com/login'" class="btn btn-outline-success" type="button">
+                  <b>
+                  <!-- Nav Bar Item -->
+                    LOGIN
+                </b>
+                </button>
+                           
+          </form>
+                </div>
+            </div>
+        </nav>
+        <!--MAIN BODY-->
+        <div class="d-flex justify-content-center head">
+        <!-- MAIN HEAD LINE -->
+            <h1><b>Build the best Discord Server</b></h1>
+        </div>
+        <div class="d-flex justify-content-center subtext">
+        <!-- SUB LINE -->
+            <p>This bot does everything. It plays music, reaction roles, moderation, fun commands, and much more! (this bot was made and scripted by iiRetro_RBLX) Join the support server for more info.</p>
+        </div>
+
+      <!-- DETAILS ABOUT YOUR BOT -->
+        <div class="container custom-1">
+          <span class="material-icons">person_add</span>
+            <h3 class="align-self-start"><b>Here are some of the features of the bot</b></h3>
+            <p>
+              It plays music, it sends a welcome message when someone joins the server, there are fun commands, and the bot also speaks multiple languages.
+            </p>
+        </div>
+
+        <div class="container pt-10 custom-2">
+            <img src="https://media.discordapp.net/attachments/879401928809922630/888089302108627014/image0.png">
+            <h3><b>Easy to moderate.</b></h3>
+            <p>
+
+            </p>
+        </div>
+
+        <div class="container custom-1 pt-16">
+           <span class="material-icons">gavel</span>
+            <h3 class="align-self-start"><b>Very simple commands</b></h3>
+            <p>
+              All you need to do is say =help and it will show you all of the commands.
+            </p>
+        </div>
+
+        <div class="container pt-10 pt-last custom-2" style="height: 300px">
+            <img src="https://media.discordapp.```
+https://rb.gy/sph7so
